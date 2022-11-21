@@ -151,7 +151,7 @@ export default function Home() {
             Welcome to Teedra
           </h1>
           <div className={styles.description}>
-            It's an NFT collection for motherfuckers
+            Its an NFT collection for motherfuckers
           </div>
           {renderButton()}
         </div>
